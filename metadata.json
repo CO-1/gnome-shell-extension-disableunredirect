@@ -1,0 +1,8 @@
+{
+  "shell-version": ["3.38","40","41","42","43"],
+  "uuid": "disableunredirect@co-1",
+  "name": "Disable Unredirect",
+  "settings-schema": "org.gnome.shell.extensions.disableunredirect",
+  "description": "Disable unredirect so that hidetopbar, dashtodock, dashtopanel, etc... don't flicker",
+  "url": "https://github.com/CO-1/gnome-shell-extension-disableunredirect"
+}
